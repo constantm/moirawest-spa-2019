@@ -1,0 +1,27 @@
+{
+  "name": "moirawest2019-spa",
+  "version": "1.0.0",
+  "description": "Moira West Marketing Website",
+  "author": "Constant Meiring",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "lodash": "^4.17.15",
+    "nuxt": "^2.0.0",
+    "storyblok-nuxt": "^1.0.1",
+    "swiper": "^4.5.0",
+    "vue-instagram": "^2.0.1",
+    "vue-parallax-js": "^0.2.3",
+    "vue-parallaxy": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "tailwindcss": "^1.0.0"
+  }
+}
